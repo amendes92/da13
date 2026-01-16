@@ -1,0 +1,8 @@
+{
+  "name": "Carreto do Carlos",
+  "description": "App de gestão de fretes, mudanças e carretos com rastreamento em tempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
